@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837634161833",
+    "project_id": "hostelsync-ab179",
+    "storage_bucket": "hostelsync-ab179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837634161833:android:43bd73032952f625a23db8",
+        "android_client_info": {
+          "package_name": "com.example.hostelsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837634161833-e5ts58bdg365bh9im6alu68pfltje325.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTLeX6Rf3ys57KXZMUOZhdLcQxNuFq_2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837634161833-e5ts58bdg365bh9im6alu68pfltje325.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
