@@ -1,6 +1,6 @@
 # hostelsync
 
-A new Flutter project.
+A Flutter Hostel project.
 
 ## Getting Started
 
